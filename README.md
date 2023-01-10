@@ -1,2 +1,26 @@
 # Module-1-challenge
 Horiseon code clean-up
+
+## USER STORY
+The marketing agency would like a codebase that follows accesibility standards so that the site is optimized for search engines.
+
+## ACCEPTANCE CRITERIA
+
+GIVEN a webpage meets accessibility standards
+WHEN I view the source code
+THEN I find semantic HTML elements
+WHEN I view the structure of the HTML elements
+THEN I find that the elements follow a logical structure independent of styling and positioning
+WHEN I view the image elements
+THEN I find accessible alt attributes
+WHEN I view the heading attributes
+THEN they fall in sequential order
+WHEN I view the title element
+THEN I find a concise, descriptive title
+
+## COMPLETED
+Proper sematic HTML elements when viewing source code
+Logical structure of of elements 
+Alt text added to all image elements
+Headings all in sequential numerical order
+Title element has been improved
